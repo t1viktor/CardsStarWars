@@ -1,21 +1,21 @@
 const characters = [
     {
         name: "Darth Vader",
-        image: "./img/vader.png", // caminho relativo para a imagem de Vader
+        image: "/img/vader.png", // caminho relativo para a imagem de Vader
         bio: "Darth Vader, anteriormente conhecido como Anakin Skywalker, é um dos personagens mais icônicos da saga Star Wars. Ele foi um Jedi que se tornou um Lorde Sith.",
         species: "Humano",
         affiliation: "Império Galáctico"
     },
     {
         name: "Luke Skywalker",
-        image: "./img/skywalker.png", // caminho relativo para a imagem de Luke
+        image: "/img/skywalker.png", // caminho relativo para a imagem de Luke
         bio: "Luke Skywalker é um dos principais heróis da saga Star Wars e um dos Jedi mais poderosos. Ele lutou contra o Império Galáctico e se tornou um símbolo da esperança.",
         species: "Humano",
         affiliation: "Aliança Rebelde"
     },
     {
         name: "Leia Organa",
-        image: "./img/leia.png", // caminho relativo para a imagem de Leia
+        image: "/img/leia.png", // caminho relativo para a imagem de Leia
         bio: "Princesa Leia Organa é uma líder da Aliança Rebelde e irmã de Luke Skywalker. Ela é uma lutadora destemida e uma estrategista habilidosa.",
         species: "Humano",
         affiliation: "Aliança Rebelde"
